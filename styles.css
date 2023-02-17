@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.button{
+    margin-bottom: 30px;
+}
+
+.box{
+    border: 5px solid black;
+    width: 750px;
+    height: 750px;
+}
+
+.tile{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid black;
+}
